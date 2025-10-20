@@ -12,3 +12,5 @@ env/
 # Ignore database
 *.parquet
 target_channels.csv
+test.parquet
+train.parquet
