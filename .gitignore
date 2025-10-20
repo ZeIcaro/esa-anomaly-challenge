@@ -1,0 +1,14 @@
+# Ignore OS and temporary files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Ignore environment folders (if any)
+.venv/
+.conda/
+env/
+
+# Ignore database
+*.parquet
+target_channels.csv

@@ -1,0 +1,10 @@
+name: esa-anomaly-challenge_env
+channels:
+  - defaults
+dependencies:
+  - python==3.13.5
+  - pandas
+  - numpy
+  - matplotlib
+  - ipykernel
+prefix: C:\Users\icaro\anaconda3\envs\esa-anomaly-challenge_env
